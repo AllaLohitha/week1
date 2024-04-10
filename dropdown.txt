@@ -1,0 +1,10 @@
+A drop-down menu is a graphical user interface element that allows users to choose from a list of options that appears when they click on or hover over a button or other control. The list of options "drops down" from the control, hence the name.
+
+Drop-down menus in HTML
+A drop-down menu is a clean method of showing a large list of choices since only one choice is displayed initially until the user activates the drop-down box. To add a drop-down menu to a web page, use a <select> element. The <option> element with attribute selected="selected" is the default option displayed before the menu is opened.
+
+Drop-down menu in Google Docs
+A drop-down menu can be added to a Google Docs by typing @ (at sign) to access the smart chips menu. From this menu you can insert an interactive drop-down menu in your document.
+
+Drop-down menus in a program window
+Drop-down menus are used in all types of software. For example, in the Windows operating system, the list of possible display themes (shown below) is a drop-down menu.
